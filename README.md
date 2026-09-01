@@ -31,7 +31,7 @@ Repositorio_Sem4/
 │ └── raw/
 │     └── casen_reducido.csv
 ├── scripts/
-│ └── lab_s4_casen.R
+│ └── semana4_lab_esqueleto.R
 ├── Repositorio_Sem4.Rproj
 ├── README.md
 ├── .gitignore
